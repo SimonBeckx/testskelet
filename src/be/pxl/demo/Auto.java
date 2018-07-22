@@ -5,7 +5,7 @@ public class Auto {
 	private String eigenaar;
 	private double prijs;
 
-
+//simon
 	public Auto(String merk, String eigenaar, double prijs) {
 		this.merk = merk;
 		this.eigenaar = eigenaar;
